@@ -32,7 +32,7 @@
 <body>
     <div>
         <p>The Media Ninjas have stolen the website for some repairs.</p><p>They'll bring it back shortly.</p>
-        <span>(Though, if you're looking to pass the time, <a href="https://www.youtube.com/watch?v=ZIGe-kl6euI">check out this video about ninjas of the Japanese flavor</a>.)</span>
+        <span>(Though, if you're looking to pass the time, <a href="https://www.youtube.com/watch?v=JS_j07Emt9U">check out this video about ninjas of the Japanese flavor</a>.)</span>
     </div>
 </body>
 
