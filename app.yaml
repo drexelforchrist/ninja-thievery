@@ -4,5 +4,12 @@ runtime: php
 api_version: 1
 
 handlers:
+# Serve images as static resources. #
+- url: /(.+\.(gif|png|jpg|svg|ico))$
+  static_files: \1
+  upload: .+\.(gif|png|jpg|svg|ico)$
+  application_readable: true
+
+# everything else should go to the index php page. #
 - url: /.*
   script: index.php
