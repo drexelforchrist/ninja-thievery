@@ -3,20 +3,29 @@
 <head>
     <style>
         body {
-            background-color:black;
+            background: black url('ninjaLogo.svg');
+			background-position: -200% 125%;
+			background-size: 130%;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
             color:#aaa;
             font-family: 'Segoe UI', 'Trebuchet MS', Calibri, Tahoma, Arial, sans-serif;
         }
         div {
             position:absolute;
             top:20%;
-            width:80%;
-            left:10%;
-            background-color:#000;
+            width:70%;
+            left:15%;
+            /*background-color:#000;*/
             text-align:center;
             vertical-align:middle;
+			text-shadow:
+				-1px -1px 0 #000,
+				1px -1px 0 #000,
+				-1px 1px 0 #000,
+				1px 1px 0 #000;
 
-        }
+		}
         p {
             font-size:3em;
         }
