@@ -1,3 +1,5 @@
+<?php header(" ", true, 500); ?>
+
 <html>
 
 <head>
