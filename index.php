@@ -1,9 +1,11 @@
 <?php header(" ", true, 500); ?>
-
+<!DOCTYPE html>
 <html>
 
 <head>
-    <style>
+	<title>Drexel Students for Christ | We'll be back</title>
+	<meta charset="UTF-8">
+    <style type="text/css">
         body {
             background: black url('ninjaLogo.svg');
 			background-position: -200% 125%;
